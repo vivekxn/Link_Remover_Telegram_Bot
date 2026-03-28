@@ -1,11 +1,6 @@
 from telebot import TeleBot
 from bot import check_message
-
-
-TOKEN = '5592542597:AAFZyzDCL8wNPlYNzR8fzh8wxAS0tVkxUn4'
-ADMINS = [
-    '1215864830'
-]
+from config import TOKEN
 
 app = TeleBot(TOKEN)
 
