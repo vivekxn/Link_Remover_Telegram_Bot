@@ -32,7 +32,7 @@ Link_Remover_Bot/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/Link_Remover_Telegram_Bot.git
+git clone https://github.com/vivekxn/Link_Remover_Telegram_Bot.git
 cd Link_Remover_Telegram_Bot
 ```
 
